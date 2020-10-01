@@ -3,7 +3,7 @@
 echo "Welcome to conditionals"
 
 todayDate=$(date +%d)
-today=$(date)
+today=$(date +'%d/%m/%Y')
 echo "Today is $today."
 if [ $todayDate -ge 15 ]
 then
