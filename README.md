@@ -4,6 +4,8 @@ This is repo for everyone who wants to learn Vim and contribute to building the 
 
 ## Step to Contribute
 
+To contribute to this repo, please read the [CONTRIBUTING.md](https://github.com/Code-Learn-Work/Vim-tutorial/blob/master/CONTRIBUTING.md) file properly and follow the steps below: 
+
 1. Fork this repo
 2. Clone your repo on your device using the `git clone` command
 3. Make contributions and push the code.
