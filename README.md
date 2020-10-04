@@ -9,7 +9,8 @@ To contribute to this repo, please read the [CONTRIBUTING.md](https://github.com
 1. Fork this repo
 2. Clone your repo on your device using the `git clone` command
 3. Make contributions and push the code.
-4. Create a PR and see your code get merged !
+4. Create a valid PR and assign anyone to review the changes.
+5. Once approved, see your code in the repo :blush:
 
 ## Learn Vim
 
